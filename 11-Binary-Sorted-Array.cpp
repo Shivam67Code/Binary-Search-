@@ -1,6 +1,6 @@
 /*This program finds the first occurrence of a target in a binary sorted array,
    simulating infinite array search using binary search.
-   -> A binary sorted array is an array where elements are sorted in non-decreasing order and may contain only two distinct values (typically 0s and 1s).
+   -> A Binary sorted array is an array where elements are sorted in non-decreasing order and may contain only two distinct values (typically 0s and 1s).
 */
 
 #include <iostream>
