@@ -1,4 +1,4 @@
-// Program to find the last occurence of an element in the sorted array.
+// A Program to find the last occurence of an element in the sorted array.
 #include <iostream>
 using namespace std;
 int binarySearch(int arr[], size_t size, int target)
